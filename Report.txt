@@ -1,0 +1,56 @@
+{
+    "company_info": {
+        "company_name": "Eureka Technologies Limited",
+        "company_number": "SC836082",
+        "email": "jackfranklin899@gmail.com"
+    },
+    "cs01": {
+        "confirmation_date": "26-07-2025",
+        "sic_code": "",
+        "shareholders": [
+            "Jack Chris Franklin",
+            "Cameron James Donovan",
+            "Sophie Joshua Roberts",
+            "Ethan William Barr"
+        ],
+        "lawful_statement": "Yes",
+        "unique_code": "1",
+        "company_name": "Eureka Technologies Limited",
+        "company_number": "SC836082",
+        "email": "jackfranklin899@gmail.com"
+    },
+    "accounts": {
+        "account_date": "26-07-2025",
+        "turnover": "200",
+        "profit_loss": "30.89",
+        "assets": "200",
+        "liabilities": "0",
+        "company_name": "Eureka Technologies Limited",
+        "company_number": "SC836082",
+        "email": "jackfranklin899@gmail.com"
+    },
+    "ct600": {
+        "tax_year_start": "26-07-2025",
+        "tax_year_end": "26-07-2026",
+        "profit_before_tax": "30.89",
+        "tax_payable": "0",
+        "company_name": "Eureka Technologies Limited",
+        "company_number": "SC836082",
+        "email": "jackfranklin899@gmail.com"
+    },
+    "expenses": [
+        {
+            "description": "Server",
+            "amount": "150"
+        },
+        {
+            "description": "Nginx",
+            "amount": "8"
+        },
+        {
+            "description": "Domain",
+            "amount": "11.11"
+        }
+    ],
+    "total_expenses": "169.11"
+}

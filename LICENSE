@@ -1,0 +1,40 @@
+Lily License 4.0
+
+Copyright (c) 2025 Franklin Dynamics
+
+This software, CORA (Company Operations & Revenue Assistant), is provided free of charge for personal and educational use, under the following terms:
+
+1. **Usage**
+   - You are permitted to use and download this software for free.
+   - You may not use this software for commercial purposes without explicit written permission from the copyright holder.
+
+2. **Distribution**
+   - Redistribution of this software, whether original or modified, is prohibited without explicit written permission from the copyright holder.
+   - You may not upload or share copies of this software on any public platform.
+
+3. **Ownership and Attribution**
+   - You may not claim this software, or any part of it, as your own work.
+   - The original copyright notices and this license must remain intact in all copies of the software.
+   - Credit must always be given to the original author: [Your Name].
+
+4. **Modification**
+   - You are allowed to modify this software for personal use only.
+   - Modified versions may not be distributed, sold, or published without explicit permission.
+
+5. **Third-Party Libraries**
+   - This software uses open-source libraries (e.g., Tkinter, Pandas, PyTorch, Matplotlib, Pillow).
+   - These libraries retain their own licenses and copyrights, which are acknowledged here.
+   - Copies of their licenses can be found in their respective repositories.
+
+6. **Disclaimer of Warranty**
+   - THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+   - In no event shall the authors or copyright holders be liable for any claim, damages, or other liability arising from the use or misuse of this software.
+
+By using this software, you agree to the terms of the Lily License 4.0.
+
+This project uses the following open-source libraries:
+- Tkinter (Python standard library, PSF license)
+- Pandas (BSD-3-Clause License)
+- PyTorch (BSD-3-Clause License)
+- Matplotlib (PSF-based license)
+- Pillow (PIL fork, open-source license)
