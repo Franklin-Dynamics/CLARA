@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+.venv/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Personal data files created by your app
+last_data.json
+
+# Any user uploaded files like images or logos (optional, if you don't want them in the repo)
+# Uncomment this if you want to exclude user uploads (logo, receipts, etc.)
+# *.png
+# *.jpg
+# *.jpeg
+
+# Ignore files created by tkinter filedialog or temp files (if any)
+*.tmp
