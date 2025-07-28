@@ -1,9 +1,11 @@
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Hession-Dynamics/Hession-Dynamics/refs/heads/main/Hession-Dynamics-Logo_cropped_gradient.png" alt="Hession Dynamics Logo" width="100" style="vertical-align:middle; margin-right:10px;">
+</p>
+
 # C.L.A.R.A. – Company Legal & Accounting Reporting Assistant  
 **by Hession Dynamics**
 
 This is a simple but powerful desktop tool (built with Python + Tkinter) that helps you fill out and generate a company filing report in `.docx` format. It covers CS01 confirmation statements, expenses, annual accounts, and CT600 tax return basics – with the option to upload a logo and attach receipt images.
-
----
 
 ## 💡 What It Does
 
