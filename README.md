@@ -87,5 +87,5 @@ python your_script_name.py
 
 ## 📣 Author
 
-Built by Hession Dynamics.  
+Built by Jack Hession @ Hession Dynamics.  
 Any feedback or feature requests, just shout.
