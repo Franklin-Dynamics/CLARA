@@ -1,4 +1,3 @@
-```
 # C.L.A.R.A. – Company Legal & Accounting Reporting Assistant  
 **by Hession Dynamics**
 
@@ -90,4 +89,3 @@ python your_script_name.py
 
 Built by Hession Dynamics.  
 Any feedback or feature requests, just shout.
-```
